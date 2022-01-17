@@ -9,6 +9,7 @@ Rtree>=0.9
 Shapely>=1.7,<2.0
 osmnx
 scipy
+requests
 
 # networkx
 # osmnx

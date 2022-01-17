@@ -4,8 +4,12 @@ __pycache__/
 *$py.class
 
 cache/
-data/
+data*/
 images/
+logs/
+
+# Mac files
+**.DS_Store
 
 # C extensions
 *.so
