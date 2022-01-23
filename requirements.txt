@@ -10,6 +10,9 @@ Shapely>=1.7,<2.0
 osmnx
 scipy
 requests
+contextily
+scikit-learn
+libpysal
 
 # networkx
 # osmnx
