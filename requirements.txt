@@ -13,6 +13,8 @@ requests
 contextily
 scikit-learn
 libpysal
+pyshp
+momepy
 
 # networkx
 # osmnx
