@@ -15,6 +15,7 @@ scikit-learn
 libpysal
 pyshp
 momepy
+seaborne
 
 # networkx
 # osmnx
